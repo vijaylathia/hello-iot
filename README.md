@@ -1,2 +1,2 @@
 # hello-iot
-the iot project
+the iot project version 2
